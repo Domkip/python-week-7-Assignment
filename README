@@ -1,0 +1,20 @@
+What this does:
+
+Loads Iris dataset directly (no need to download CSV manually).
+
+Prints dataset structure, missing values, and summary statistics.
+
+Groups data by species (target).
+
+Creates 4 customized plots:
+
+Line chart (Sepal length trend).
+
+Bar chart (average sepal width per species).
+
+Histogram (petal length distribution).
+
+Scatter plot (sepal length vs petal length).
+
+Prints insights at the end.
+
